@@ -1,16 +1,20 @@
 actors:
-  alice:
-    image_url: /images/actors/alice.png
-    name: alice
-    url: http://sns.example.com/alice
-  bob:
-    image_url: /images/actors/bob.png
-    name: bob
-    url: http://sns.example.com/bob
+  satoshun:
+    image_url: /images/actors/satoshun.jpg
+    name: satoshun
+    url: https://twitter.com/stsn_jp
+  ymizushi:
+    image_url: /images/actors/ymizushi.jpg
+    name: ymizushi
+    url: https://twitter.com/ymizushi
+  nabetama:
+    image_url: /images/actors/nabetama.jpg
+    name: nabetama
+    url: https://twitter.com/nabetama
 author: Operaion Urd
-description: 頑張ります
-description_long: 頑張って続けていきます
-email: info@example.com
+description: 作戦名はオペレーション・ウルド
+description_long: 仕事、コンピューター、アニメ、ゲームなどの話題を中心に、普通のデベロッパーたちが普通に話す、民衆のためのPodcast
+email: opr.urd+fm@gmail.com
 exclude:
   - Gemfile
   - Gemfile.lock
@@ -19,7 +23,7 @@ exclude:
   - vendor
 hashtag: urdfm
 itunes_podcast_url:
-keywords: podcast,tech,programming,urd
+keywords: podcast,tech,programming,anime,gadget
 language: ja
 markdown: kramdown
 permalink: /episode/:title
